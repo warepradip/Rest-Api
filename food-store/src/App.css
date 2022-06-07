@@ -1,0 +1,18 @@
+.jumbotron {
+  background-color: #6f0b06;
+  color: rgb(255, 255, 255);
+  padding: 100px 0;
+  text-align: center;
+  border-color: antiquewhite;
+}
+
+.App{
+  background-color:FFFDFARGB(255, 253, 250) ;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+}
+
+
+.brand-icon {
+    font-size: 100px;
+}
